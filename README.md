@@ -9,7 +9,7 @@
 
 <div>
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=Fin1704&hide_title=true&show_icons=true&theme=dark" alt="Nuno Lima" />
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caokynguyen1704&langs_count=10&hide_title=false&layout=compact&theme=dark&count_private=true&hide=css,html" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fin1704&langs_count=10&hide_title=false&layout=compact&theme=dark&count_private=true&hide=css,html" />
  </div>
 <a href="https://github.com/Fin1704"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/nguyencaoky99/"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--chf73s-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Linked_In-0077B5%3Fstyle%3Dfor-the-badge%26logo%3DLinkedIn%26logoColor%3Dwhite" alt="linked-in" loading="lazy" width="115" height="28"></a>
